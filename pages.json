@@ -51,7 +51,7 @@
 				"pagePath": "pages/tabbar/tabbar-1/tabbar-1",
 				"iconPath": "static/img/tabbar/home.png",
 				"selectedIconPath": "static/img/tabbar/homeactive.png",
-				"text": "首页"
+				"text": "热点"
 			},
 			{
 				"pagePath": "pages/tabbar/tabbar-2/tabbar-2",

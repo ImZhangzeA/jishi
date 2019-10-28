@@ -1,1 +1,2 @@
-<view class="content">页面 - 发图文</view>
+<import src="./tabbar-3-release.vue.wxml" />
+    <template is="4c3587de" data="{{ ...$root['0'], $root }}"/>

@@ -16,6 +16,7 @@
     "navigationBarBackgroundColor": "#F8F8F8",
     "backgroundColor": "#F8F8F8"
   },
+  "usingComponents": {},
   "tabBar": {
     "borderStyle": "black",
     "backgroundColor": "#333",
@@ -26,7 +27,7 @@
         "pagePath": "pages/tabbar/tabbar-1/tabbar-1",
         "iconPath": "static/img/tabbar/home.png",
         "selectedIconPath": "static/img/tabbar/homeactive.png",
-        "text": "首页"
+        "text": "热点"
       },
       {
         "pagePath": "pages/tabbar/tabbar-2/tabbar-2",
@@ -55,6 +56,5 @@
     ]
   },
   "permission": {},
-  "usingComponents": {},
-  "sitemapLocation": "sitemap62.json"
+  "sitemapLocation": "sitemap85.json"
 }

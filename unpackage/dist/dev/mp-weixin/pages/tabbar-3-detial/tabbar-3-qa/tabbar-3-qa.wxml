@@ -1,1 +1,2 @@
-<view class="content">页面 - 提问</view>
+<import src="./tabbar-3-qa.vue.wxml" />
+    <template is="e51978dc" data="{{ ...$root['0'], $root }}"/>

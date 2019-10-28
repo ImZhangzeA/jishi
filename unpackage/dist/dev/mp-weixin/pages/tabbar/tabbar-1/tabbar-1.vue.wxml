@@ -1,0 +1,1 @@
+<template name="96e828ec"><scroll-view class="_scroll-view M96e828ec content" scroll-y="true" bindscrolltoupper="handleProxy" bindscrolltolower="handleProxy" data-eventid="{{'96e828ec-0'}}" data-comkey="{{$k}}"><view class="_view M96e828ec scroll-view-item uni-bg-red newsbox"><view class="_view M96e828ec"></view></view></scroll-view></template>

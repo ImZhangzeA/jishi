@@ -51,12 +51,12 @@
         /* 小程序特有相关 */
         "appid" : "wxfec78057e0605e04",
         "setting" : {
-            "urlCheck" : true,
+            "urlCheck" : false,
             "minified" : true,
             "es6" : true,
             "postcss" : true
         },
-        "usingComponents" : true,
+        "usingComponents" : false,
         "permission" : {}
     }
 }

@@ -1,1 +1,2 @@
-<view class="content">页面 - 2</view>
+<import src="./tabbar-2.vue.wxml" />
+    <template is="ae5546ac" data="{{ ...$root['0'], $root }}"/>

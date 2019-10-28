@@ -1,1 +1,2 @@
-<view class="content">页面 - 发视频</view>
+<import src="./tabbar-3-video.vue.wxml" />
+    <template is="fa6cfdc4" data="{{ ...$root['0'], $root }}"/>
